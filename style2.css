@@ -1,0 +1,24 @@
+
+
+.img_left{
+    float: left;
+    width: 35%;
+}
+
+.img_right{
+    float: right;
+    width: 35%;
+}
+
+.p_dark_italic{
+    color: #313131;
+    font-style: italic;
+}
+
+.p_bold{
+    font-weight: bold;
+}
+
+.first_word{
+    color: red;
+}
